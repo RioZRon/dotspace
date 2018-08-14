@@ -1,0 +1,7 @@
+#+TITLE: Langs Layer
+
+* Description
+
+Langs hosts all programming language configuration.
+
+Now only ~python~ and ~hy~ have updates.
